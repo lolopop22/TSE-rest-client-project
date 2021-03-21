@@ -60,7 +60,7 @@ const getOnePlayer = async() => {
 let modifiedPlayer = {
     name: "Loïc ASSONTIA",
     age: 22,
-    citizenship: "Cameroonian"
+    citizenship: "Ukrainian"
 }
 
 const putReq = async() => {
